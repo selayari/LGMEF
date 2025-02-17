@@ -1,4 +1,4 @@
-![](C:\Users\sayari\Documents\GitHub\LGMEF\Logo%20LGMEF.jpg)
+<img title="" src="https://lgidf.cnrs.fr/sites/lgidf.cnrs.fr/files/Logo%20LGMEF_taille.jpg" alt="" data-align="center">
 
 
 
