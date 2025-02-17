@@ -1,7 +1,5 @@
 ### Le projet
 
-
-
 Le projet *Langues et Grammaires du Monde dans l'Espace Francophone* a pour but d'archiver et rendre accessibles à un public large, en français, des informations sur les  langues AUTRES que le français standard qui sont parlées dans toutes les régions du monde où une variété standard de français a fonction de langue nationale,  administrative ou officielle. A l'origine, notre documentation a ciblé en priorité les langues de l'immigration récente présentes dans la région d'Ile de France,  dans la complémentarité du travail de recensement des "langues de France" effectué sous l'égide de la Direction Générale de la Langue Française et des Langues de France 
 (DGLFLF). Le rapport de Bernard Cerquiglini sur "les langues de la France" ([voir le site de la DGLFLF](http://www.dglf.culture.gouv.fr)) , et le [corpus de la parole mis en ligne par le Ministère de la Culture](http://corpusdelaparole.tge-adonis.fr/spip.php) n'inventorient en effet que les langues d'implantation relativement ancienne, en laissant de côté celles des immigrés plus récents (chinois,  tamoul, haïtien, langues d'Afrique subsaharienne, par exemple).
 
@@ -12,25 +10,13 @@ propriétés sonores (phonologie) et grammaticales (morphosyntaxe), un court tex
 Ce noyau d'informations est complété par des liens conduisant à d'autres sites existants fournissant des données complémentaires (systèmes de  numération, jeux sur les langues, etc.). Les propriétés de chaque langue sont présentées dans une optique contrastive Langue  → Français, visant  à permettre aux enseignants d'anticiper les points de blocage propres à chaque type de locuteurs dans leur acquisition du français : pour une justification argumentée de cette démarche, lire l'excellent article de [Michel Launey](http://lgidf.cnrs.fr/sites/lgidf.cnrs.fr/files/images/%20Launey.2014.FLS.pdf) disponible sur ce site (rubrique 'Docs>A lire'). Voir aussi le livre de D. Levet, E. Soare et A. Zribi-Hertz *Français et langues du monde :  comparaison et apprentissage* (Paris, Hachette 2021). L'archive, ouverte, se présente comme un site interactif incluant du texte, du son, voire de l'image, et comportant un
  espace de discussion ("forum") permettant aux utilisateurs de contribuer à chaque instant à son amélioration.
 
-
-
 Le public visé inclut par exemple : enseignants, éducateurs, travailleurs sociaux, psychologues, orthophonistes, libraires, organisateurs d'événements culturels, linguistes.... et toutes autres catégories de citoyens francophones et allophones désireux de s'informer sur la nature précise des langues qui, quotidiennement, les entourent. Mais les enseignants sont tout particulièrement concernés par notre 
 archive en ligne, notamment ceux chargés de la première intégration linguistique des enfants et adultes récemment arrivés dans l'espace francophone, mais aussi tous ceux qui ont dans leurs classes des élèves bilingues ou polyglottes, si l'on admet que tout nouvel apprentissage doit toujours prendre appui sur ce que l'apprenant sait déjà. Cf. cette vidéo illustrative :
 
-
-<iframe width="560" height="315" src="https://www.canal-u.tv/chaines/cnrspouchet/embed/76897?t=0" allowfullscreen></iframe>
-
+<iframe width="560" height="315" titile= "Vidéo LGMEF" src="https://www.canal-u.tv/chaines/cnrspouchet/embed/76897?t=0" allowfullscreen></iframe>
 
 La méthode "Comparons nos langues" développée par certains  enseignants à l'instigation de Nathalie Auger (professeur à l'Université de Montpellier et spécialiste de didactique des langues) relève d'une démarche analogue :
 
-
-
-<iframe width="420" height="315" src="https://www.youtube.com/embed/_ZlBiAoMTBo" title="Comparons nos langues" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_ZlBiAoMTBo" title="Comparons nos langues" frameborderllowfullscreen></iframe>
 
 Notons qu'un certain nombre des langues documentées dans ce site bénéficient d'un enseignement spécialisé à l'[INALCO,](http://www.inalco.fr/) dont plusieurs enseignants-chercheurs ont contribué à ce projet.
-
-
-
-
