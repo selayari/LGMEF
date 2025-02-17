@@ -17,7 +17,7 @@ Ce noyau d'informations est complété par des liens conduisant à d'autres site
 Le public visé inclut par exemple : enseignants, éducateurs, travailleurs sociaux, psychologues, orthophonistes, libraires, organisateurs d'événements culturels, linguistes.... et toutes autres catégories de citoyens francophones et allophones désireux de s'informer sur la nature précise des langues qui, quotidiennement, les entourent. Mais les enseignants sont tout particulièrement concernés par notre 
 archive en ligne, notamment ceux chargés de la première intégration linguistique des enfants et adultes récemment arrivés dans l'espace francophone, mais aussi tous ceux qui ont dans leurs classes des élèves bilingues ou polyglottes, si l'on admet que tout nouvel apprentissage doit toujours prendre appui sur ce que l'apprenant sait déjà. Cf. cette vidéo illustrative :
 
-
+<iframe width="560" height="315" src="https://www.canal-u.tv/chaines/cnrspouchet/embed/76897?t=0" allowfullscreen></iframe>
 
 La méthode "Comparons nos langues" développée par certains  enseignants à l'instigation de Nathalie Auger (professeur à l'Université de Montpellier et spécialiste de didactique des langues) relève d'une démarche analogue, voir [cette vidéo](http://www.youtube.com/watch?v=_ZlBiAoMTBo) :
 
