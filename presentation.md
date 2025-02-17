@@ -1,0 +1,34 @@
+### Le projet
+
+
+
+Le projet *Langues et Grammaires du Monde dans l'Espace Francophone* a pour but d'archiver et rendre accessibles à un public large, en français, des informations sur les  langues AUTRES que le français standard qui sont parlées dans toutes les régions du monde où une variété standard de français a fonction de langue nationale,  administrative ou officielle. A l'origine, notre documentation a ciblé en priorité les langues de l'immigration récente présentes dans la région d'Ile de France,  dans la complémentarité du travail de recensement des "langues de France" effectué sous l'égide de la Direction Générale de la Langue Française et des Langues de France 
+(DGLFLF). Le rapport de Bernard Cerquiglini sur "les langues de la France" ([voir le site de la DGLFLF](http://www.dglf.culture.gouv.fr)) , et le [corpus de la parole mis en ligne par le Ministère de la Culture](http://corpusdelaparole.tge-adonis.fr/spip.php) n'inventorient en effet que les langues d'implantation relativement ancienne, en laissant de côté celles des immigrés plus récents (chinois,  tamoul, haïtien, langues d'Afrique subsaharienne, par exemple).
+
+Dans la pratique, notre projet a d'abord ciblé les langues 1 des  enfants et adolescents inscrits dans les classes d'accueil du département de Seine-Saint-Denis (93), où est implantée l'Université Paris 8 (notre institution de rattachement). Mais il intègre déjà aussi de nombreuses langues présentes dans l'espace francophone à un titre ou à
+ un autre, et sur lesquelles tout un chacun peut souhaiter s'informer.  Les documents archivés dans le site tâchent de se conformer à une même maquette pour toutes les langues traitées. Le noyau de chaque archive prévoit des informations générales sur la langue (histoire, géographie, nombre de locuteurs, système d'écriture), un échantillon de mots (lexique transcrit et enregistré), des informations spécifiques sur les 
+propriétés sonores (phonologie) et grammaticales (morphosyntaxe), un court texte transcrit et lu, un échantillon d'"interactions de base" (transcrites et enregistrées) permettant à chacun d'adresser quelques phrases ou formules simples à un locuteur de L. La rubrique [*Musiques*](https://lgidf.cnrs.fr/musiques) propose en outre une collection de chansons dont les paroles glosées et traduites permettent à chacun de chanter dans toutes les langues. 
+
+Ce noyau d'informations est complété par des liens conduisant à d'autres sites existants fournissant des données complémentaires (systèmes de  numération, jeux sur les langues, etc.). Les propriétés de chaque langue sont présentées dans une optique contrastive Langue  → Français, visant  à permettre aux enseignants d'anticiper les points de blocage propres à chaque type de locuteurs dans leur acquisition du français : pour une justification argumentée de cette démarche, lire l'excellent article de [Michel Launey](http://lgidf.cnrs.fr/sites/lgidf.cnrs.fr/files/images/%20Launey.2014.FLS.pdf) disponible sur ce site (rubrique 'Docs>A lire'). Voir aussi le livre de D. Levet, E. Soare et A. Zribi-Hertz *Français et langues du monde :  comparaison et apprentissage* (Paris, Hachette 2021). L'archive, ouverte, se présente comme un site interactif incluant du texte, du son, voire de l'image, et comportant un
+ espace de discussion ("forum") permettant aux utilisateurs de contribuer à chaque instant à son amélioration.
+
+
+
+Le public visé inclut par exemple : enseignants, éducateurs, travailleurs sociaux, psychologues, orthophonistes, libraires, organisateurs d'événements culturels, linguistes.... et toutes autres catégories de citoyens francophones et allophones désireux de s'informer sur la nature précise des langues qui, quotidiennement, les entourent. Mais les enseignants sont tout particulièrement concernés par notre 
+archive en ligne, notamment ceux chargés de la première intégration linguistique des enfants et adultes récemment arrivés dans l'espace francophone, mais aussi tous ceux qui ont dans leurs classes des élèves bilingues ou polyglottes, si l'on admet que tout nouvel apprentissage doit toujours prendre appui sur ce que l'apprenant sait déjà. Cf. cette vidéo illustrative :
+
+
+
+La méthode "Comparons nos langues" développée par certains  enseignants à l'instigation de Nathalie Auger (professeur à l'Université de Montpellier et spécialiste de didactique des langues) relève d'une démarche analogue, voir [cette vidéo](http://www.youtube.com/watch?v=_ZlBiAoMTBo) :
+
+
+
+<iframe width="420" height="315" src="https://www.youtube.com/embed/_ZlBiAoMTBo" title="Comparons nos langues" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+
+Notons qu'un certain nombre des langues documentées dans ce site bénéficient d'un enseignement spécialisé à l'[INALCO,](http://www.inalco.fr/) dont plusieurs enseignants-chercheurs ont contribué à ce projet.
+
+
+
+
